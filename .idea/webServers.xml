@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a3ea607e-b01b-40d3-a6f9-dae356f409dd" name="139" url="http://80.243.180.139">
+        <fileTransfer rootFolder="/var/www/html/doge" accessType="SFTP" host="80.243.180.139" port="22" sshConfigId="14716bcd-f64a-4fb7-85a0-2143fffe9559" sshConfig="mmdrza@80.243.180.139:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" connections="15" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+        <option name="numberOfConnections" value="15" />
+      </webServer>
+    </option>
+  </component>
+</project>

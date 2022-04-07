@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+<component name="mHash">
+  <settings>
+    <option name="mHexer" value="false" />
+=======
+<component name="InspectionProjectProfileManager">
+  <settings>
+    <option name="USE_PROJECT_PROFILE" value="false" />
+>>>>>>> b96576c (mHash())
+    <version value="1.0" />
+  </settings>
+</component>
